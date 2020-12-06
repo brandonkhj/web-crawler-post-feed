@@ -1,4 +1,4 @@
-#PHP web scraper example
+# PHP web scraper example
 
 Requirements
 - Laravel 8
